@@ -1,6 +1,8 @@
 # RPN
 Test project: reverse polish notation calculator
+
 This version accept data only as arguments for a main java class. 
+
 Available operators: + -
 
 1. build use: mvn clean install
